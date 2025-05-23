@@ -11,7 +11,7 @@ export default function Footer() {
             © 2025 Wiley‘s 导航. All rights reserved.
           </div>
           <div className="flex gap-6">
-            <Link href="https://www.wileyzhang.com" className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">关于我</Link>
+            <Link href="https://about.wileyzhang.com/" className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white">关于我</Link>
           </div>
         </div>
       </div>
