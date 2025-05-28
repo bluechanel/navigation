@@ -85,6 +85,12 @@
           "url": "https://ui.shadcn.com/",
           "description": "shadcn ui",
           "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAcCAYAAACQ0cTtAAAABWZkRUNSJJPjAOWrYpkAAANNSURBVHgB5cRjtCVn2oDh+3mravPY57RtxLYzM0kGydi2bdu2EYxi22bbPH2szap6n2/Vj7PWXr06mWimZ773x3WhqvqfYgD+UwzAf4oB+E8xAM/U1q1b+eIXv0QC4PEYgGdi69atvPnNb+GLX/wSid///g8A7IsBeLq2bt3Km9/8Fm6++RYAEjNmzABgXwzA07F161be/Oa3cPPNtwCQuPLKKzj22GMA2BcD8FRt3bqVN7/5Ldx88y0AJK688gqOPfYYAB6PAXgqtm7dypvf/BZuvvkWABJXXnkFxx57DABPxAA8WVu3buXNb34LN998CwCJK6+8gmOPPQaAf8UAPBlbt27lzW9+CzfffAsAiSuvvIJjjz0GgCfDAPwrW7du5c1vfgs333wLAIkrr7yCY489BoBJd911F+9617u56667ANibAXgiW7du5c1vfgs333wLAIkrr7yCY489BoBJt99+B2ef/Xx+8YtfcvbZz6darQJQywA8nq1bt/LmN7+Fm2++BYDElVdewbHHHgPApNtvv4MXvOCFjI2NAfB4DMC+bN26lTe/+S3cfPMtACSuvPIKjj32GAAm3X77HbzgBS9kbGwMgIaGBv72t7+SSqUAqGUA9rZ161be/Oa3cPPNtwCQuPLKKzj22GMAmHT77Xfwghe8kLGxMQAaGhr429/+ypFHHgHA3gxAra1bt/LmN7+Fm2++BYDElVdewbHHHgPApNtvv4MXvOCFjI2NAdDQ0MDf/vZXjjzyCAD2xQBM2rp1K29+81u4+eZbAEhceeUVHHvsMQBMuv32O3jBC17I2NgYAA0NDfztb3/lyCOPAODxGIBJX/rSl7n55lsASFx55RUce+wxAEy6/fY7eMELXsjY2BgADQ0N/O1vf+XII48A4IkYgEnTp08HIHHllVdw7LHHADDprrvu4gUveCFjY2MANDQ08Le//ZUjjzwCgH/FAEx6xStezk9/+hNWr36MY489BoBaf/zjnxgbGwOgoaGBv/3trxx55BEAPBkGYNKMGTN45StfwYwZMwDY28tf/jIaGhpI/O1vf+XII48A4MkyAE/WYYcdxrZtW0gceeQRADwVBuCpSKVSJACeKgPwn2IA/lMMwH/K/wFMgVva2nlBHAAAAABJRU5ErkJggg=="
+        },
+        {
+          "title": "uilayouts",
+          "url": "https://www.ui-layouts.com/",
+          "description": "100+ 基于 tailwindcss、framer-motion、gsap 等的免费精美交互式 react/nextjs 组件。",
+          "icon": "https://raw.githubusercontent.com/ui-layouts/uilayouts/main/main-logo.png"
         }
       ]
     },
